@@ -1,0 +1,14 @@
+/* Change font size for the URL bar */
+#urlbar {
+  font-size: 12px !important;
+}
+
+/* Change font size for all Menu items and Tab text */
+#nav-bar, #TabsToolbar {
+  font-size: 12px !important;
+}
+
+/* Adjust size of icons in the main toolbar */
+#nav-bar .toolbarbutton-1 {
+  transform: scale(0.9);
+}
